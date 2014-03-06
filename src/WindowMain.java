@@ -66,15 +66,6 @@ public class WindowMain
         System.out.println ("Hello!");
         System.out.println ("Please refer to the window labled 'Desktop'");
 
-
-
-
-
-
-
-
-
-
         // Checks for Updates, then Downloads and executes them
 
         String userHome = System.getProperty("user.home");
